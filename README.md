@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Homelabe Documentation](https://docs.lswg-lab.de)
 
-- 🌱 I’m currently learning **SysOp, IT-Security**
+- 🌱 I’m currently learning **SysOps, IT-Security**
 
 - 👨‍💻 All of my projects are available at [https://lswg-lab.de/overview](https://lswg-lab.de/overview)
 
